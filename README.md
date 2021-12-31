@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋, I am Brian Mwangi your dat@guy :man:
+I am a skilled data analyst:bar_chart: with in-depth knowledge and experience in collecting, organizing, interpreting and presenting data for actionable insights. Confident communicator with the ability to convey information in a clear, efficient and beneficial way for informed decision making.
 
-<!--
-**brynmwangy/brynmwangy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I spend most of my days extracting, cleaning, visualizing and modelling data using  :computer: **R,SQL,Python**.
 
-Here are some ideas to get you started:
+I love to dance:dancers:, hiking:mount_fuji:, tinkering on bikes:bicyclist:, camping:tent:, playing games:video_game::dart:, swimming:swimmer:, learning new stuff:books: and cooking:mag:.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Interests:**
+
+- Data collection                           
+- Data analysis           
+- Data visualization       
+- Machine Learning      
+- Computer vision
+ - GIS Mapping      
+
+
